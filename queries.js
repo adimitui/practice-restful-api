@@ -12,7 +12,7 @@ var db = pgp({
 	port: 5432,
 	database: 'kittens',
 	user: 'postgres',
-	password: 'coasterfanatic'
+	password: 'hello'
 });
 
 // Add query functions
